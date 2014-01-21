@@ -4,11 +4,12 @@ html {
     background-color: #2E2E2E
 }
 
-h1 + p {
-    font-family: Futura, sans-serif;
-    color: #FACC2E
-}
-
 p {
     line-height:1.25rem
+}
+
+h1 + p {
+    font-size: 6rem;
+    line-height:1.75rem;
+    
 }
