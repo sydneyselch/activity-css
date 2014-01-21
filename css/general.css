@@ -1,0 +1,14 @@
+html {
+    font-family: Futura, Arial, sans-serif;
+    color: #FFF;
+    background-color: #2E2E2E
+}
+
+h1 + p {
+    font-family: Futura, sans-serif;
+    color: #FACC2E
+}
+
+p {
+    line-height:1.25rem
+}
