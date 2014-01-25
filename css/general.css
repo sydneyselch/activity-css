@@ -12,6 +12,7 @@ p {
 h1 {
     font-size: 2.5rem;
     font-family: CaslonCP;
+    text-shadow: #999 2px 2px; /* colour + x + y */
     font-stretch:condensed; 
     line-height:2.25rem;
     color: #FFBF00;
