@@ -5,11 +5,45 @@ html {
 }
 
 p {
+    font-size:1rem;
     line-height:1.25rem
 }
 
-h1 + p {
-    font-size: 6rem;
-    line-height:1.75rem;
-    
+h1 {
+    font-size: 2.5rem;
+    font-family: CaslonCP;
+    font-stretch:condensed; 
+    line-height:2.25rem;
+    color: #FFBF00;
 }
+
+hr {
+    border: solid 2.5px #FFBF00
+}
+
+h2 {
+    color: #FFBF00;
+}
+
+h3 {
+    color:#FFBF00;
+}
+
+
+ul {
+     background-color: #585858;
+    font-family:cursive;
+}
+
+ol {
+    background-color: #585858;
+}
+
+ol li:first-child {
+    background-color: #848484;
+}
+
+strong {
+    color: #FFBF00;
+}
+
